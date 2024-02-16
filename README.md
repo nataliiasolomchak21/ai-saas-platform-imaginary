@@ -1,1 +1,1 @@
-# ai-saas-platform-imaginary
+# Imaginary (AI-SaaS-Platform)
